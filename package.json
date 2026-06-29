@@ -1,0 +1,27 @@
+{
+  "name": "viola-selfie",
+  "version": "0.2.0",
+  "description": "Private 9Router selfie skill for OpenClaw/Hermes agents",
+  "bin": {
+    "viola-selfie": "./bin/viola-selfie.js"
+  },
+  "files": [
+    "bin/",
+    "skill/",
+    "templates/",
+    "examples/",
+    "README.md"
+  ],
+  "keywords": [
+    "openclaw",
+    "hermes",
+    "9router",
+    "selfie",
+    "image-generation",
+    "ai-agent"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
